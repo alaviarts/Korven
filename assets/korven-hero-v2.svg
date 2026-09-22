@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Korven™ — Organization in Flow. One Organization. One Operational System.</title>
+  <desc id="desc">Korven integrated organizational operations platform, connecting structure, operations, data and information.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#152522"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="34%" r="65%">
+      <stop offset="0%" stop-color="#2b8d77" stop-opacity=".26"/>
+      <stop offset="100%" stop-color="#2b8d77" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="#34524b"/>
+  <text x="600" y="99" text-anchor="middle" fill="#f0f6fc"
+        font-family="Inter, Segoe UI, Arial, sans-serif" font-size="56" font-weight="700"
+        letter-spacing="8">KORVEN<tspan dx="6" dy="-23" font-size="21" font-weight="700" letter-spacing="0">™</tspan></text>
+  <text x="600" y="145" text-anchor="middle" fill="#c9d1d9"
+        font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="600" letter-spacing="2">
+    ORGANIZATION IN FLOW
+  </text>
+  <g stroke="#4f8d7b" stroke-width="1.6" fill="none" opacity=".75">
+    <path d="M357 239h31m-6 -5l6 5 -6 5"/>
+    <path d="M584 239h31m-6 -5l6 5 -6 5"/>
+    <path d="M811 239h31m-6 -5l6 5 -6 5"/>
+  </g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#eaf6f1">
+    <rect x="154" y="213" width="203" height="52" rx="25" fill="#152723" stroke="#4f8d7b"/>
+    <text x="255.5" y="245">STRUCTURE</text>
+    <rect x="388" y="213" width="196" height="52" rx="25" fill="#152723" stroke="#4f8d7b"/>
+    <text x="486" y="245">OPERATIONS</text>
+    <rect x="615" y="213" width="196" height="52" rx="25" fill="#152723" stroke="#4f8d7b"/>
+    <text x="713" y="245">DATA</text>
+    <rect x="842" y="213" width="203" height="52" rx="25" fill="#152723" stroke="#4f8d7b"/>
+    <text x="943.5" y="245">INFORMATION</text>
+  </g>
+  <text x="600" y="316" text-anchor="middle" fill="#a9c8be"
+        font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17"
+        font-weight="600" letter-spacing="1.8">ONE ORGANIZATION · ONE OPERATIONAL SYSTEM</text>
+</svg>
