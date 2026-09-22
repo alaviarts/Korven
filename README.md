@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/korven-hero.svg" alt="Korven — Integrated Organizational Operations Platform" width="100%">
+<img src="./assets/korven-hero-v2.svg" alt="Korven — Organization in Flow. One Organization. One Operational System." width="100%">
 
 <br/>
 
-<h2>Organization in Motion</h2>
+<h2>Organization in Flow</h2>
 
 **One Organization. One Operational System.**
 
@@ -213,7 +213,7 @@ Private source code, detailed domain models, authorization rules, execution cont
 
 ### KORVEN™
 
-<h3>Organization in Motion</h3>
+<h3>Organization in Flow</h3>
 
 **One Organization. One Operational System.**
 
