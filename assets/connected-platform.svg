@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="450" viewBox="0 0 1200 450" role="img" aria-labelledby="title desc">
+<title id="title">From familiar specialized systems to a connected organizational platform</title>
+<desc id="desc">ERP, CRM, BPM, HRM, inventory, finance and many more business needs can be configured within Korven's shared operational foundation.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#14231f"/></linearGradient>
+<linearGradient id="focus" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1b3931"/><stop offset="100%" stop-color="#15241f"/></linearGradient>
+</defs>
+<rect width="1200" height="450" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="448" rx="21" fill="none" stroke="#354943"/>
+<g font-family="Inter, Segoe UI, Arial, sans-serif">
+<text x="600" y="56" text-anchor="middle" fill="#eaf7f1" font-size="23" font-weight="700">Familiar capabilities. One connected organization.</text>
+<text x="269" y="99" text-anchor="middle" fill="#9bb0bc" font-size="15" font-weight="700" letter-spacing="1.4">TRADITIONAL SOFTWARE CATEGORIES</text>
+<rect x="52" y="121" width="207" height="72" rx="13" fill="#182029" stroke="#374b56"/>
+ <text x="155.5" y="152" text-anchor="middle" fill="#f0f6fc" font-size="20" font-weight="700">ERP</text>
+ <text x="155.5" y="173" text-anchor="middle" fill="#a4b6c2" font-size="13">Resources &amp; operations</text>
+<rect x="279" y="121" width="207" height="72" rx="13" fill="#182029" stroke="#374b56"/>
+ <text x="382.5" y="152" text-anchor="middle" fill="#f0f6fc" font-size="20" font-weight="700">CRM</text>
+ <text x="382.5" y="173" text-anchor="middle" fill="#a4b6c2" font-size="13">Customers &amp; sales</text>
+<rect x="52" y="212" width="207" height="72" rx="13" fill="#182029" stroke="#374b56"/>
+ <text x="155.5" y="243" text-anchor="middle" fill="#f0f6fc" font-size="20" font-weight="700">BPM</text>
+ <text x="155.5" y="264" text-anchor="middle" fill="#a4b6c2" font-size="13">Processes &amp; workflows</text>
+<rect x="279" y="212" width="207" height="72" rx="13" fill="#182029" stroke="#374b56"/>
+ <text x="382.5" y="243" text-anchor="middle" fill="#f0f6fc" font-size="20" font-weight="700">HRM</text>
+ <text x="382.5" y="264" text-anchor="middle" fill="#a4b6c2" font-size="13">People &amp; responsibilities</text>
+<rect x="52" y="303" width="207" height="72" rx="13" fill="#182029" stroke="#374b56"/>
+ <text x="155.5" y="334" text-anchor="middle" fill="#f0f6fc" font-size="20" font-weight="700">INVENTORY</text>
+ <text x="155.5" y="355" text-anchor="middle" fill="#a4b6c2" font-size="13">Stock &amp; movement</text>
+<rect x="279" y="303" width="207" height="72" rx="13" fill="#182029" stroke="#374b56"/>
+ <text x="382.5" y="334" text-anchor="middle" fill="#f0f6fc" font-size="20" font-weight="700">FINANCE</text>
+ <text x="382.5" y="355" text-anchor="middle" fill="#a4b6c2" font-size="13">Accounting &amp; results</text>
+<text x="269" y="424" text-anchor="middle" fill="#afd4c6" font-size="16" font-weight="600">+ services, maintenance, contracts and more…</text>
+<path d="M512 253H632" stroke="#63a892" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+<path d="M618 242l14 11 -14 11" fill="none" stroke="#63a892" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="665" y="117" width="486" height="274" rx="22" fill="url(#focus)" stroke="#5da68e" stroke-width="1.6"/>
+<text x="908" y="182" text-anchor="middle" fill="#f4fff9" font-size="43" font-weight="700" letter-spacing="5">KORVEN</text>
+<text x="908" y="219" text-anchor="middle" fill="#c0e6d8" font-size="17" font-weight="600">ONE OPERATIONAL PLATFORM</text>
+<line x1="735" y1="240" x2="1081" y2="240" stroke="#477e70"/>
+<text x="908" y="277" text-anchor="middle" fill="#d9eae2" font-size="17">Structure · Responsibility</text>
+<text x="908" y="310" text-anchor="middle" fill="#d9eae2" font-size="17">Processes · Business Data</text>
+<text x="908" y="343" text-anchor="middle" fill="#d9eae2" font-size="17">Operational Results · Information</text>
+<text x="908" y="421" text-anchor="middle" fill="#afd4c6" font-size="16" font-weight="500">Adapted to the organization and its evolving needs</text>
+</g>
+</svg>
