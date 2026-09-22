@@ -4,7 +4,7 @@
 
 <br/>
 
-<h2 dir="rtl">سازمان در جریان</h2>
+<h2>Organization in Motion</h2>
 
 **One Organization. One Operational System.**
 
@@ -213,7 +213,7 @@ Private source code, detailed domain models, authorization rules, execution cont
 
 ### KORVEN™
 
-<h3 dir="rtl">سازمان در جریان</h3>
+<h3>Organization in Motion</h3>
 
 **One Organization. One Operational System.**
 
